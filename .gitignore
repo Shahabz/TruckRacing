@@ -2,9 +2,7 @@
 .vscode/
 
 # Ignore Visual Studio files
-*.suo
-*.lock
-*.ide
+
 
 # Ignore Unity files
 
