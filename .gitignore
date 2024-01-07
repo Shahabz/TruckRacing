@@ -1,33 +1,3 @@
-# Ignore Visual Studio Code settings
-.vscode/
-
-# Ignore Visual Studio files
-
-
-# Ignore Unity files
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Ignore generic 3D model files
-
-
-# Ignore any file with a .lock extension
-
-
-
-# Ignore Unity Library folder
-Library/
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:adfcf75656208be074a52bf30c1f0f6cadb72ad68e9abd2e3a7d586a10704dc4
+size 250
