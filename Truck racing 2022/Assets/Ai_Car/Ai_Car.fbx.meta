@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 13a54d9fc7c0a224bae9f73fac8e6b0e
+timeCreated: 1523511062
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Car3_Frame
+    100004: Car3_frame_
+    100006: Car3_frame_ 1
+    100008: Car3_frame_ 2
+    100010: Car3_frame_01
+    100012: Car3_frame_02
+    100014: Car3_frame_03
+    100016: Car3_frame_04
+    100018: Car3_frame_05
+    100020: Car3_frame_06
+    100022: Car3_Sky01
+    100024: Car3_stockcar_body
+    100026: Car3_Wheel_main
+    100028: Car3_Wheel_main01
+    100030: Car3_Wheel_main02
+    100032: Car3_Wheel_main03
+    400000: //RootNode
+    400002: Car3_Frame
+    400004: Car3_frame_
+    400006: Car3_frame_ 1
+    400008: Car3_frame_ 2
+    400010: Car3_frame_01
+    400012: Car3_frame_02
+    400014: Car3_frame_03
+    400016: Car3_frame_04
+    400018: Car3_frame_05
+    400020: Car3_frame_06
+    400022: Car3_Sky01
+    400024: Car3_stockcar_body
+    400026: Car3_Wheel_main
+    400028: Car3_Wheel_main01
+    400030: Car3_Wheel_main02
+    400032: Car3_Wheel_main03
+    2300000: Car3_Frame
+    2300002: Car3_frame_
+    2300004: Car3_frame_ 1
+    2300006: Car3_frame_ 2
+    2300008: Car3_frame_01
+    2300010: Car3_frame_02
+    2300012: Car3_frame_03
+    2300014: Car3_frame_04
+    2300016: Car3_frame_05
+    2300018: Car3_frame_06
+    2300020: Car3_stockcar_body
+    2300022: Car3_Wheel_main
+    2300024: Car3_Wheel_main01
+    2300026: Car3_Wheel_main02
+    2300028: Car3_Wheel_main03
+    3300000: Car3_Frame
+    3300002: Car3_frame_
+    3300004: Car3_frame_ 1
+    3300006: Car3_frame_ 2
+    3300008: Car3_frame_01
+    3300010: Car3_frame_02
+    3300012: Car3_frame_03
+    3300014: Car3_frame_04
+    3300016: Car3_frame_05
+    3300018: Car3_frame_06
+    3300020: Car3_stockcar_body
+    3300022: Car3_Wheel_main
+    3300024: Car3_Wheel_main01
+    3300026: Car3_Wheel_main02
+    3300028: Car3_Wheel_main03
+    4300000: Car3_Wheel_main
+    4300002: Car3_stockcar_body
+    4300004: Car3_Frame
+    4300006: Car3_frame_
+    4300008: Car3_frame_01
+    4300010: Car3_frame_02
+    4300012: Car3_frame_
+    4300014: Car3_frame_
+    4300016: Car3_frame_03
+    4300018: Car3_frame_04
+    4300020: Car3_frame_05
+    4300022: Car3_frame_06
+    4300024: Car3_Wheel_main01
+    4300026: Car3_Wheel_main02
+    4300028: Car3_Wheel_main03
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

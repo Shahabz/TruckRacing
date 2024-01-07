@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 30e8ac63df3f811479fe0ee80f23aaab
+timeCreated: 1458397989
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Constr1
+    100002: Constr10
+    100004: Constr2
+    100006: Constr3
+    100008: Constr4
+    100010: Constr5
+    100012: Constr6
+    100014: Constr7
+    100016: Constr8
+    100018: Constr9
+    100020: DoverCercaEst
+    100022: DoverCercaExterna
+    100024: DoverCercaInterna
+    100026: DoverGramadoExterno
+    100028: DoverMureta
+    100030: DoverMuretaExt
+    100032: DoverPistaSpeedway
+    100034: DoverRiscosInterno
+    100036: DoverRiscosPista
+    100038: DoverSpeedwayPistaInterna
+    100040: DoverTorre
+    100042: DoverTorreTopo
+    100044: //RootNode
+    100046: Object040
+    100048: PassarelaDover1
+    100050: PassarelaDover2
+    100052: PosteLargada
+    100054: Riscos
+    100056: bleachers
+    100058: buildings
+    100060: dovery Track
+    100062: DoverySkidmarks
+    100064: doverySkidmarksInterior
+    100066: DoveryTrack
+    100068: DoveryTrackInside
+    100070: Fence
+    100072: fence2
+    100074: Grass
+    100076: wall
+    100078: wall 1
+    400000: Constr1
+    400002: Constr10
+    400004: Constr2
+    400006: Constr3
+    400008: Constr4
+    400010: Constr5
+    400012: Constr6
+    400014: Constr7
+    400016: Constr8
+    400018: Constr9
+    400020: DoverCercaEst
+    400022: DoverCercaExterna
+    400024: DoverCercaInterna
+    400026: DoverGramadoExterno
+    400028: DoverMureta
+    400030: DoverMuretaExt
+    400032: DoverPistaSpeedway
+    400034: DoverRiscosInterno
+    400036: DoverRiscosPista
+    400038: DoverSpeedwayPistaInterna
+    400040: DoverTorre
+    400042: DoverTorreTopo
+    400044: //RootNode
+    400046: Object040
+    400048: PassarelaDover1
+    400050: PassarelaDover2
+    400052: PosteLargada
+    400054: Riscos
+    400056: bleachers
+    400058: buildings
+    400060: dovery Track
+    400062: DoverySkidmarks
+    400064: doverySkidmarksInterior
+    400066: DoveryTrack
+    400068: DoveryTrackInside
+    400070: Fence
+    400072: fence2
+    400074: Grass
+    400076: wall
+    400078: wall 1
+    2300000: Constr1
+    2300002: Constr10
+    2300004: Constr2
+    2300006: Constr3
+    2300008: Constr4
+    2300010: Constr5
+    2300012: Constr6
+    2300014: Constr7
+    2300016: Constr8
+    2300018: Constr9
+    2300020: DoverCercaEst
+    2300022: DoverCercaExterna
+    2300024: DoverCercaInterna
+    2300026: DoverGramadoExterno
+    2300028: DoverMureta
+    2300030: DoverMuretaExt
+    2300032: DoverPistaSpeedway
+    2300034: DoverRiscosInterno
+    2300036: DoverRiscosPista
+    2300038: DoverSpeedwayPistaInterna
+    2300040: DoverTorre
+    2300042: DoverTorreTopo
+    2300044: Object040
+    2300046: PassarelaDover1
+    2300048: PassarelaDover2
+    2300050: PosteLargada
+    2300052: bleachers
+    2300054: buildings
+    2300056: dovery Track
+    2300058: DoverySkidmarks
+    2300060: doverySkidmarksInterior
+    2300062: DoveryTrack
+    2300064: DoveryTrackInside
+    2300066: Fence
+    2300068: fence2
+    2300070: Grass
+    2300072: wall
+    2300074: wall 1
+    3300000: Constr1
+    3300002: Constr10
+    3300004: Constr2
+    3300006: Constr3
+    3300008: Constr4
+    3300010: Constr5
+    3300012: Constr6
+    3300014: Constr7
+    3300016: Constr8
+    3300018: Constr9
+    3300020: DoverCercaEst
+    3300022: DoverCercaExterna
+    3300024: DoverCercaInterna
+    3300026: DoverGramadoExterno
+    3300028: DoverMureta
+    3300030: DoverMuretaExt
+    3300032: DoverPistaSpeedway
+    3300034: DoverRiscosInterno
+    3300036: DoverRiscosPista
+    3300038: DoverSpeedwayPistaInterna
+    3300040: DoverTorre
+    3300042: DoverTorreTopo
+    3300044: Object040
+    3300046: PassarelaDover1
+    3300048: PassarelaDover2
+    3300050: PosteLargada
+    3300052: bleachers
+    3300054: buildings
+    3300056: dovery Track
+    3300058: DoverySkidmarks
+    3300060: doverySkidmarksInterior
+    3300062: DoveryTrack
+    3300064: DoveryTrackInside
+    3300066: Fence
+    3300068: fence2
+    3300070: Grass
+    3300072: wall
+    3300074: wall 1
+    4300000: Constr6
+    4300002: PosteLargada
+    4300004: Constr9
+    4300006: DoverPistaSpeedway
+    4300008: DoverSpeedwayPistaInterna
+    4300010: DoverMureta
+    4300012: Constr7
+    4300014: Constr8
+    4300016: DoverCercaInterna
+    4300018: Constr3
+    4300020: DoverCercaEst
+    4300022: Constr5
+    4300024: Constr4
+    4300026: DoverMuretaExt
+    4300028: DoverCercaExterna
+    4300030: PassarelaDover1
+    4300032: PassarelaDover2
+    4300034: Constr2
+    4300036: Constr1
+    4300038: Constr10
+    4300040: DoverGramadoExterno
+    4300042: DoverTorre
+    4300044: DoverTorreTopo
+    4300046: DoverRiscosPista
+    4300048: DoverRiscosInterno
+    4300050: Object040
+    4300052: DoveryTrack
+    4300054: DoveryTrackInside
+    4300056: wall
+    4300058: Fence
+    4300060: wall
+    4300062: fence2
+    4300064: buildings
+    4300066: Grass
+    4300068: dovery Track
+    4300070: bleachers
+    4300072: doverySkidmarksInterior
+    4300074: DoverySkidmarks
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 39.37
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: d3b3da87a99f4774dbe20eb7775d8ca5
+timeCreated: 1479188752
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Barrier_L
+    100002: Barrier_R
+    100004: Bridge
+    100006: City_Block_01
+    100008: City_Block_01 1
+    100010: City_Block_01 2
+    100012: City_Block_02
+    100014: City_Block_02 1
+    100016: City_Block_03
+    100018: City_Road_01
+    100020: City_Road_02
+    100022: City_Road_03
+    100024: //RootNode
+    100026: Open_Tunnel
+    100028: Signal_Light
+    100030: Signal_Pol
+    100032: Traffic_Signal
+    100034: Tunnel
+    100036: Bench_L
+    100038: Bench_R
+    100040: Bus_Stop_L
+    100042: Bus_Stop_R
+    400000: Barrier_L
+    400002: Barrier_R
+    400004: Bridge
+    400006: City_Block_01
+    400008: City_Block_01 1
+    400010: City_Block_01 2
+    400012: City_Block_02
+    400014: City_Block_02 1
+    400016: City_Block_03
+    400018: City_Road_01
+    400020: City_Road_02
+    400022: City_Road_03
+    400024: //RootNode
+    400026: Open_Tunnel
+    400028: Signal_Light
+    400030: Signal_Pol
+    400032: Traffic_Signal
+    400034: Tunnel
+    400036: Bench_L
+    400038: Bench_R
+    400040: Bus_Stop_L
+    400042: Bus_Stop_R
+    2300000: Barrier_L
+    2300002: Barrier_R
+    2300004: Bridge
+    2300006: City_Block_01 2
+    2300008: City_Block_02 1
+    2300010: City_Block_03
+    2300012: City_Road_01
+    2300014: City_Road_02
+    2300016: City_Road_03
+    2300018: Open_Tunnel
+    2300020: Signal_Light
+    2300022: Signal_Pol
+    2300024: Tunnel
+    2300026: Bench_L
+    2300028: Bench_R
+    2300030: Bus_Stop_L
+    2300032: Bus_Stop_R
+    3300000: Barrier_L
+    3300002: Barrier_R
+    3300004: Bridge
+    3300006: City_Block_01 2
+    3300008: City_Block_02 1
+    3300010: City_Block_03
+    3300012: City_Road_01
+    3300014: City_Road_02
+    3300016: City_Road_03
+    3300018: Open_Tunnel
+    3300020: Signal_Light
+    3300022: Signal_Pol
+    3300024: Tunnel
+    3300026: Bench_L
+    3300028: Bench_R
+    3300030: Bus_Stop_L
+    3300032: Bus_Stop_R
+    4300000: Bridge
+    4300002: Open_Tunnel
+    4300004: Tunnel
+    4300006: Barrier_L
+    4300008: Barrier_R
+    4300010: City_Road_01
+    4300012: City_Block_01
+    4300014: City_Block_02
+    4300016: Signal_Light
+    4300018: Signal_Pol
+    4300020: City_Road_02
+    4300022: City_Road_03
+    4300024: City_Block_03
+    4300026: Bus_Stop_L
+    4300028: Bus_Stop_R
+    4300030: Bench_R
+    4300032: Bench_L
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 7
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

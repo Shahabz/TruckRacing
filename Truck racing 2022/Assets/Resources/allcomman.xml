@@ -1,0 +1,21 @@
+<!--   AdIn contains the deails of Ad in pages
+1- ShowMenuAd 2-LevelSelection 3-Upgrade 4-LevelComplete 5-PreLevelFail 6-LevelFail
+RotationType 1->Ironsource 2->Admob 3->Unity
+**Dont Give Empty values-->
+<GameData>
+<Version levelxmlversion="1.0" gameversion="1.0"/>
+<Desc RateDesc="How Many stars you want to give ? " ShareDesc="Share And Get 100 Coins"/>
+<PopUpLvls RateInLvls="3_9_21" ShareInLvls="6_13_19"/>
+<Coins RateCoins="0" ShareCoins="100"/>
+<DiscountPop Menu="3_7" UPLS="4_4"/>
+<Addelay Addelay="60" lcaddelay="2.2" lfaddelay="2" prelfdelay="1" upldelay="1"/>
+<AdType RotationType="1_2_3" RotationRewardType="1_2_3"/>
+<AdIn pages="1_0_0_4_0_6"/>
+<shareLink urlFB="http://upon.in/colordashs/fb"/>
+<moregames mgImgLink1="https://s3-us-west-2.amazonaws.com/girlgames/menu/snakevshexa_P1.jpg" mgLinkto1="market://details?id=com.gladgames.snakevshexa" 
+mgImgLink2="https://s3-us-west-2.amazonaws.com/girlgames/menu/onelineonetouch_P1.jpg" mgLinkto2="market://details?id=com.gladgames.onelineonetouch" 
+mgImgLink3="https://s3-us-west-2.amazonaws.com/girlgames/menu/fidgetspinner_p1.jpg" mgLinkto3="market://details?id=com.timuzgames.fidgetspinner.io" 
+mgImgLink4="https://s3-us-west-2.amazonaws.com/girlgames/menu/snakevshexa_P1.jpg" mgLinkto4="market://details?id=com.gladgames.snakevshexa" 
+mgImgLink5="https://s3-us-west-2.amazonaws.com/girlgames/menu/snakevshexa_P1.jpg" mgLinkto5="market://details?id=com.gladgames.snakevshexa"/>
+<Notification onesignal="b07ec071-e6a0-45d9-a3e9-3c32b5a1f798_497510513329"/>
+</GameData>

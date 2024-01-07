@@ -1,0 +1,128 @@
+Site URL: 
+market://details?id=com.gtactiongames.formulacarracing
+
+Category : Racing
+
+Admob : 
+Interstitial ID: ca-app-pub-1389921346082860/1546818567
+
+Iron Source : 
+App Key: 835a576d
+
+Unity Ads
+Google Play Store: 2958579
+
+Public Key
+
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnQV1XLBtUqNMXXL3qxglGoojKkX9fSalB8BgyT4S/zpQ4NXWrwiBZVI6QcQv9Wa3Cc3ngikg53TOWqXd9fd4vQS4V1Or7pvlIt8nKvI4XVfTuMpuyzp0h08qNMS1GhyWMnz5TfVP34KJkHDMy+IkgUvZp1rttaysfvxfYrzaW+LwqkALM1Q9NJA/xQGO/pbhWTm8gHxa1aX0NnZ9HwkC/i7Y4oS0E3JHpL2YUCrBmTs/M1ZhnllpZPsqnJCbM5UAXQsu+knDx9JeLojvqf29f4N9Gt58KynCr+FULhmn6ROeBiDr44P8MT5Rk6CwfPWVhmp1n1FJ4xcQ7IkL0XyqdQIDAQAB
+
+Game Services
+
+Formula Car Racing
+444143461380
+
+1
+
+High Score
+CgkIhMiNyPYMEAIQAA
+—
+Ready to publish
+
+Achievements
+
+1
+
+1
+CgkIhMiNyPYMEAIQAQ
+5
+—
+Ready to test
+2
+
+2
+CgkIhMiNyPYMEAIQAg
+5
+—
+Ready to test
+3
+
+3
+CgkIhMiNyPYMEAIQAw
+5
+—
+Ready to test
+4
+
+4
+CgkIhMiNyPYMEAIQBA
+5
+—
+Ready to test
+5
+
+5
+CgkIhMiNyPYMEAIQBQ
+5
+—
+Ready to test
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <!-- app_id -->
+  <string name="app_id" translatable="false">444143461380</string>
+  <!-- achievement 1 -->
+  <string name="achievement_1" translatable="false">CgkIhMiNyPYMEAIQAQ</string>
+  <!-- achievement 2 -->
+  <string name="achievement_2" translatable="false">CgkIhMiNyPYMEAIQAg</string>
+  <!-- achievement 3 -->
+  <string name="achievement_3" translatable="false">CgkIhMiNyPYMEAIQAw</string>
+  <!-- achievement 4 -->
+  <string name="achievement_4" translatable="false">CgkIhMiNyPYMEAIQBA</string>
+  <!-- achievement 5 -->
+  <string name="achievement_5" translatable="false">CgkIhMiNyPYMEAIQBQ</string>
+  <!-- leaderboard High Score -->
+  <string name="leaderboard_high_score" translatable="false">CgkIhMiNyPYMEAIQAA</string>
+</resources>
+
+
+
+_______________________________________________________
+
+
+10,000 Coins (com.gtactiongames.formulacarracing.10kcoins)
+INR 1,000.00
+Dec 10, 2018
+Active
+25,000 Coins (com.gtactiongames.formulacarracing.25kcoins)
+INR 2,500.00
+Dec 10, 2018
+Active
+50,000 Coins (com.gtactiongames.formulacarracing.50kcoins)
+INR 5,000.00
+Dec 10, 2018
+Active
+5000 Coins (com.gtactiongames.formulacarracing.5kcoins)
+INR 500.00
+Dec 10, 2018
+Active
+Unlock All Cars (com.gtactiongames.formulacarracing.unlockallcars)
+INR 7,138.00
+Dec 10, 2018
+Active
+Unlock All Tracks (com.gtactiongames.formulacarracing.unlockalltracks)
+INR 7,138.00
+Dec 10, 2018
+Active
+_________________________________________________________
+
+One Signal
+Application Code: 0c8fd0c0-d5f2-44c6-9ead-36f0b6468113
+
+Google Server API : AAAAwK9MD0M:APA91bFmpdpSixCeBgvSeXU85yoPGsUWUtw2zx5fOlVuNbi3TLkXwo22fkn9KGz-NxSCslzltNRIvbx8dMdPIguJkp-Q9fdVYAg0J3G0o3HrwIejLrRIrD4gD5iM_ckQsWdnoxRUV1mc
+
+Google Project Number : 827574718275

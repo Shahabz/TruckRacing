@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+  <common mimg="https://s3-us-west-2.amazonaws.com/girlgames/menu/eurotruckracing.jpg" linkto="market://details?id=com.bestfreegames.eurotruckracing"/>
+  <com.qadsigames.megarampgrandauto mimg="" linkto=""/>
+  <com.freegames.mountaincardriving mimg="https://s3-us-west-2.amazonaws.com/girlgames/menu/megarampimpossiblewheels.jpg" linkto="market://details?id=com.freegames.megarampimpossiblewheels"/>
+</games>

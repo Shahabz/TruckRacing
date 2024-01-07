@@ -21,6 +21,7 @@
 *.pdf
 *.cubemap
 *.rtf
+*.exr
 
 # Ignore generic 3D model files
 *.fbx

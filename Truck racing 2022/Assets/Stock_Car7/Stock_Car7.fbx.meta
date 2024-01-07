@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: b4f4603fffec6924c8b68b360fc702a7
+timeCreated: 1523430002
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cars7_Atrapa01
+    100002: Cars7_Box010
+    100004: Cars7_Box03
+    100006: Cars7_Drzwi L
+    100008: Cars7_guma
+    100010: Cars7_guma01
+    100012: Cars7_Karoseria
+    100014: Cars7_Krata
+    100016: Cars7_Line01
+    100018: Cars7_Line02
+    100020: Cars7_Listwa
+    100022: Cars7_Logo
+    100024: Cars7_Lusterko L
+    100026: Cars7_Migacz L
+    100028: Cars7_Migacz L2
+    100030: Cars7_Migacz R
+    100032: Cars7_Migacz R2
+    100034: Cars7_Nadkola
+    100036: Cars7_Object04
+    100038: Cars7_Object20
+    100040: Cars7_Podwozie
+    100042: Cars7_R03
+    100044: Cars7_R04
+    100046: Cars7_Rejstracja
+    100048: Cars7_Spoiler
+    100050: Cars7_Szyba L
+    100052: Cars7_Szyby
+    100054: "Cars7_Tr\xF3jk\xB9t L"
+    100056: "Cars7_Ty\xB3 Ch\xB3odn"
+    100058: 'Cars7_Uszczelka '
+    100060: Cars7_Uszczelki
+    100062: Cars7_Uszczelki0
+    100064: Cars7_Wlot x1
+    100066: Cars7_Wloty dach
+    100068: Cars7_Wloty top
+    100070: Cars7_Wloty x2
+    100072: Cars7_Wycieracz0
+    100074: Cars7_Wycieracz1
+    100076: Cars7_Wydech
+    100078: Cars7_zapinki pr
+    100080: Cars7_zapinki ty
+    100082: "Cars7_Zci\xB9gacz L"
+    100084: "Cars7_Zci\xB9gacz R"
+    100086: Cars7_Zderzak fr
+    100088: Cars7_Zderzak ty
+    100090: //RootNode
+    400000: Cars7_Atrapa01
+    400002: Cars7_Box010
+    400004: Cars7_Box03
+    400006: Cars7_Drzwi L
+    400008: Cars7_guma
+    400010: Cars7_guma01
+    400012: Cars7_Karoseria
+    400014: Cars7_Krata
+    400016: Cars7_Line01
+    400018: Cars7_Line02
+    400020: Cars7_Listwa
+    400022: Cars7_Logo
+    400024: Cars7_Lusterko L
+    400026: Cars7_Migacz L
+    400028: Cars7_Migacz L2
+    400030: Cars7_Migacz R
+    400032: Cars7_Migacz R2
+    400034: Cars7_Nadkola
+    400036: Cars7_Object04
+    400038: Cars7_Object20
+    400040: Cars7_Podwozie
+    400042: Cars7_R03
+    400044: Cars7_R04
+    400046: Cars7_Rejstracja
+    400048: Cars7_Spoiler
+    400050: Cars7_Szyba L
+    400052: Cars7_Szyby
+    400054: "Cars7_Tr\xF3jk\xB9t L"
+    400056: "Cars7_Ty\xB3 Ch\xB3odn"
+    400058: 'Cars7_Uszczelka '
+    400060: Cars7_Uszczelki
+    400062: Cars7_Uszczelki0
+    400064: Cars7_Wlot x1
+    400066: Cars7_Wloty dach
+    400068: Cars7_Wloty top
+    400070: Cars7_Wloty x2
+    400072: Cars7_Wycieracz0
+    400074: Cars7_Wycieracz1
+    400076: Cars7_Wydech
+    400078: Cars7_zapinki pr
+    400080: Cars7_zapinki ty
+    400082: "Cars7_Zci\xB9gacz L"
+    400084: "Cars7_Zci\xB9gacz R"
+    400086: Cars7_Zderzak fr
+    400088: Cars7_Zderzak ty
+    400090: //RootNode
+    2300000: Cars7_Atrapa01
+    2300002: Cars7_Box010
+    2300004: Cars7_Box03
+    2300006: Cars7_Drzwi L
+    2300008: Cars7_guma
+    2300010: Cars7_guma01
+    2300012: Cars7_Karoseria
+    2300014: Cars7_Krata
+    2300016: Cars7_Line01
+    2300018: Cars7_Line02
+    2300020: Cars7_Listwa
+    2300022: Cars7_Logo
+    2300024: Cars7_Lusterko L
+    2300026: Cars7_Migacz L
+    2300028: Cars7_Migacz L2
+    2300030: Cars7_Migacz R
+    2300032: Cars7_Migacz R2
+    2300034: Cars7_Nadkola
+    2300036: Cars7_Object04
+    2300038: Cars7_Object20
+    2300040: Cars7_Podwozie
+    2300042: Cars7_R03
+    2300044: Cars7_R04
+    2300046: Cars7_Rejstracja
+    2300048: Cars7_Spoiler
+    2300050: Cars7_Szyba L
+    2300052: Cars7_Szyby
+    2300054: "Cars7_Tr\xF3jk\xB9t L"
+    2300056: "Cars7_Ty\xB3 Ch\xB3odn"
+    2300058: 'Cars7_Uszczelka '
+    2300060: Cars7_Uszczelki
+    2300062: Cars7_Uszczelki0
+    2300064: Cars7_Wlot x1
+    2300066: Cars7_Wloty dach
+    2300068: Cars7_Wloty top
+    2300070: Cars7_Wloty x2
+    2300072: Cars7_Wycieracz0
+    2300074: Cars7_Wycieracz1
+    2300076: Cars7_Wydech
+    2300078: Cars7_zapinki pr
+    2300080: Cars7_zapinki ty
+    2300082: "Cars7_Zci\xB9gacz L"
+    2300084: "Cars7_Zci\xB9gacz R"
+    2300086: Cars7_Zderzak fr
+    2300088: Cars7_Zderzak ty
+    3300000: Cars7_Atrapa01
+    3300002: Cars7_Box010
+    3300004: Cars7_Box03
+    3300006: Cars7_Drzwi L
+    3300008: Cars7_guma
+    3300010: Cars7_guma01
+    3300012: Cars7_Karoseria
+    3300014: Cars7_Krata
+    3300016: Cars7_Line01
+    3300018: Cars7_Line02
+    3300020: Cars7_Listwa
+    3300022: Cars7_Logo
+    3300024: Cars7_Lusterko L
+    3300026: Cars7_Migacz L
+    3300028: Cars7_Migacz L2
+    3300030: Cars7_Migacz R
+    3300032: Cars7_Migacz R2
+    3300034: Cars7_Nadkola
+    3300036: Cars7_Object04
+    3300038: Cars7_Object20
+    3300040: Cars7_Podwozie
+    3300042: Cars7_R03
+    3300044: Cars7_R04
+    3300046: Cars7_Rejstracja
+    3300048: Cars7_Spoiler
+    3300050: Cars7_Szyba L
+    3300052: Cars7_Szyby
+    3300054: "Cars7_Tr\xF3jk\xB9t L"
+    3300056: "Cars7_Ty\xB3 Ch\xB3odn"
+    3300058: 'Cars7_Uszczelka '
+    3300060: Cars7_Uszczelki
+    3300062: Cars7_Uszczelki0
+    3300064: Cars7_Wlot x1
+    3300066: Cars7_Wloty dach
+    3300068: Cars7_Wloty top
+    3300070: Cars7_Wloty x2
+    3300072: Cars7_Wycieracz0
+    3300074: Cars7_Wycieracz1
+    3300076: Cars7_Wydech
+    3300078: Cars7_zapinki pr
+    3300080: Cars7_zapinki ty
+    3300082: "Cars7_Zci\xB9gacz L"
+    3300084: "Cars7_Zci\xB9gacz R"
+    3300086: Cars7_Zderzak fr
+    3300088: Cars7_Zderzak ty
+    4300000: Cars7_Atrapa01
+    4300002: Cars7_Wlot x1
+    4300004: Cars7_Listwa
+    4300006: Cars7_Logo
+    4300008: Cars7_Karoseria
+    4300010: Cars7_Spoiler
+    4300012: Cars7_Wloty x2
+    4300014: Cars7_Wloty top
+    4300016: Cars7_Wloty dach
+    4300018: Cars7_Zderzak fr
+    4300020: Cars7_Zderzak ty
+    4300022: Cars7_Nadkola
+    4300024: Cars7_Szyby
+    4300026: Cars7_Wydech
+    4300028: Cars7_Rejstracja
+    4300030: Cars7_Drzwi L
+    4300032: Cars7_Szyba L
+    4300034: 'Cars7_Uszczelka '
+    4300036: "Cars7_Tr\xF3jk\xB9t L"
+    4300038: Cars7_Lusterko L
+    4300040: "Cars7_Ty\xB3 Ch\xB3odn"
+    4300042: Cars7_Krata
+    4300044: Cars7_Podwozie
+    4300046: Cars7_Migacz L
+    4300048: Cars7_Migacz L2
+    4300050: Cars7_Migacz R
+    4300052: Cars7_Migacz R2
+    4300054: Cars7_zapinki ty
+    4300056: Cars7_zapinki pr
+    4300058: Cars7_Wycieracz1
+    4300060: "Cars7_Zci\xB9gacz L"
+    4300062: Cars7_Wycieracz0
+    4300064: "Cars7_Zci\xB9gacz R"
+    4300066: Cars7_guma
+    4300068: Cars7_Object04
+    4300070: Cars7_guma01
+    4300072: Cars7_Object20
+    4300074: Cars7_R03
+    4300076: Cars7_Box03
+    4300078: Cars7_Uszczelki0
+    4300080: Cars7_Box010
+    4300082: Cars7_Uszczelki
+    4300084: Cars7_Line02
+    4300086: Cars7_Line01
+    4300088: Cars7_R04
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

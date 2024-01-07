@@ -1,0 +1,37 @@
+
+<gameconfigs>
+<mpad need="true" img1="https://s3-us-west-2.amazonaws.com/htmltimuz/match3/ads/main_portrait.jpg" img2="https://s3-us-west-2.amazonaws.com/htmltimuz/match3/ads/main.jpg" linkto="market://details?id=com.match3puzzlegames.frozenDiamonds&amp;referrer=igames_menuad" linktomgto="market://details?id=com.igames.ninjaskates3d" tryme="market://details?id=com.timuzsolutions.jewelsking&amp;referrer=pastry_tryme" trymeios="https://itunes.apple.com/app/id1012352151" trymeImage="https://s3-us-west-2.amazonaws.com/htmltimuz/match3/try.png"/>
+
+<exitpopupimg img="http://s3.amazonaws.com/Tap-FreeGames/img/rollercoastersimulator2016.jpg" linkto="market://details?id=com.thegame.rollercoastersimulator2016&amp;referrer=GummyCandy_menuadexit"/>
+
+<promo need="false" popupimg="https://s3-us-west-2.amazonaws.com/htmltimuz/ads/popupad.jpg" linkto="market://details?id=com.integer.ghostride3d&amp;referrer=timuz_mgpopup"/>
+
+<mg1 linkto="" linktowithclose="" exitlinkto=""/>
+
+<mg2 linkto="" linktowithclose="" exitlinkto=""/>
+
+<publisher name = "Tap+Free+Games"/>
+
+<g5 adtoaddelay="90" st="0_0_34_0"/>
+<gamepngs FolderLocation="http://s3.amazonaws.com/Tap-FreeGames/img/"/>
+
+<!--<newgame packageID="com.timuzsolutions.farmparadise"/>
+<newgame packageID="com.timuzsolutions.colorcrushmania"/>
+<newgame packageID="com.timuzsolutions.jewelsking"/>
+<newgame packageID="com.timuzsolutions.pastrymania"/>-->
+<skip On="1" levelxmlversion="1.1" gameversion="1.1" isfullscreen="true" lcaddelay="1.5" lfaddelay="1.5" fbpushlink="http://timuz.com/mobilegames/pushwoosh_pastryu5.php?histoken="/>
+
+
+<shareLink urlFB="http://upon.in/spaceracerone/fb/" />
+
+<DownLoadFreegame FreegameImg="https://s3.amazonaws.com/thegamecompany/match3/GummyCandy/fruitjuice.jpg" FreegameLink="market://details?id=com.igames.fruitjuice"/>
+
+
+<moregamepngs FolderLocation="http://s3.amazonaws.com/Tap-FreeGames/img/"/>
+
+<moregame packageID="com.thegame.rollercoastersimulator2016"/>
+
+
+<ratepopup levelNums="4_6_11_16_21_26_31_34" ratemsg="Love SpaceRacer One! &#10; Please rate 5stars &#10; Get Reward of 500 coins" ratecoins="500"/>
+<!-- This XML is Only For -->
+</gameconfigs>

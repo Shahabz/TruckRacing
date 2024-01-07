@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 287b685b13841e649813d0dcfc4f6e21
+timeCreated: 1544447372
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group1
+    100002: Scene_Scene_group1
+    100004: Scene_Scene_group11
+    100006: Scene_Scene_group12
+    100008: Scene_Scene_group13
+    100010: Scene_Scene_group14
+    100012: Scene_Scene_group2
+    100014: Scene_Scene_group3
+    100016: Scene_Scene_group5
+    100018: Scene_Scene_group6
+    100020: Scene_Scene_group7
+    100022: Scene_Scene_group9
+    100024: Scene_Scene_polySurface15275
+    100026: Scene_Scene_Scene_group1
+    100028: Scene_Scene_Scene_group10
+    100030: Scene_Scene_Scene_group11
+    100032: Scene_Scene_Scene_group12
+    100034: Scene_Scene_Scene_group13
+    100036: Scene_Scene_Scene_group14
+    100038: Scene_Scene_Scene_group15
+    100040: Scene_Scene_Scene_group16
+    100042: Scene_Scene_Scene_group17
+    100044: Scene_Scene_Scene_group18
+    100046: Scene_Scene_Scene_group19
+    100048: Scene_Scene_Scene_group20
+    100050: Scene_Scene_Scene_group21
+    100052: Scene_Scene_Scene_group4
+    100054: Scene_Scene_Scene_group5
+    100056: Scene_Scene_Scene_group7
+    100058: Scene_Scene_Scene_group8
+    100060: Scene_Scene_Scene_group9
+    100062: //RootNode
+    400000: group1
+    400002: Scene_Scene_group1
+    400004: Scene_Scene_group11
+    400006: Scene_Scene_group12
+    400008: Scene_Scene_group13
+    400010: Scene_Scene_group14
+    400012: Scene_Scene_group2
+    400014: Scene_Scene_group3
+    400016: Scene_Scene_group5
+    400018: Scene_Scene_group6
+    400020: Scene_Scene_group7
+    400022: Scene_Scene_group9
+    400024: Scene_Scene_polySurface15275
+    400026: Scene_Scene_Scene_group1
+    400028: Scene_Scene_Scene_group10
+    400030: Scene_Scene_Scene_group11
+    400032: Scene_Scene_Scene_group12
+    400034: Scene_Scene_Scene_group13
+    400036: Scene_Scene_Scene_group14
+    400038: Scene_Scene_Scene_group15
+    400040: Scene_Scene_Scene_group16
+    400042: Scene_Scene_Scene_group17
+    400044: Scene_Scene_Scene_group18
+    400046: Scene_Scene_Scene_group19
+    400048: Scene_Scene_Scene_group20
+    400050: Scene_Scene_Scene_group21
+    400052: Scene_Scene_Scene_group4
+    400054: Scene_Scene_Scene_group5
+    400056: Scene_Scene_Scene_group7
+    400058: Scene_Scene_Scene_group8
+    400060: Scene_Scene_Scene_group9
+    400062: //RootNode
+    2300000: Scene_Scene_polySurface15275
+    2300002: //RootNode
+    3300000: Scene_Scene_polySurface15275
+    3300002: //RootNode
+    4300000: Scene_Scene_polySurface15275
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

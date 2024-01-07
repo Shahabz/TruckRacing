@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 1fb998f9d4f1c0e4f9df00908a3d3842
+timeCreated: 1458581578
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Plane049
+    100002: RichmondCentro
+    100004: RichmondCercaExt
+    100006: RichmondCercaInt
+    100008: RichmondConstr1
+    100010: RichmondConstr2
+    100012: RichmondConstr3
+    100014: RichmondConstr4
+    100016: RichmondConstr5
+    100018: RichmondGramadoExterno
+    100020: RichmondMuretaExt
+    100022: RichmondMuretaInt
+    100024: RichmondPista
+    100026: RichmondPistaInterna
+    100028: RichmondPistaRiscos
+    100030: RichmondPosteLuz
+    100032: RichmondTorre
+    100034: RichmondTorreTopo
+    100036: //RootNode
+    100038: bleachers
+    100040: buildings
+    100042: FEnce
+    100044: Fence
+    100046: lights
+    100048: richCenter
+    100050: RichSkidmarks
+    100052: RichTrack
+    100054: RichTrackInterior
+    100056: tower
+    100058: wall
+    100060: Wall2
+    400000: Plane049
+    400002: RichmondCentro
+    400004: RichmondCercaExt
+    400006: RichmondCercaInt
+    400008: RichmondConstr1
+    400010: RichmondConstr2
+    400012: RichmondConstr3
+    400014: RichmondConstr4
+    400016: RichmondConstr5
+    400018: RichmondGramadoExterno
+    400020: RichmondMuretaExt
+    400022: RichmondMuretaInt
+    400024: RichmondPista
+    400026: RichmondPistaInterna
+    400028: RichmondPistaRiscos
+    400030: RichmondPosteLuz
+    400032: RichmondTorre
+    400034: RichmondTorreTopo
+    400036: //RootNode
+    400038: bleachers
+    400040: buildings
+    400042: FEnce
+    400044: Fence
+    400046: lights
+    400048: richCenter
+    400050: RichSkidmarks
+    400052: RichTrack
+    400054: RichTrackInterior
+    400056: tower
+    400058: wall
+    400060: Wall2
+    2300000: Plane049
+    2300002: RichmondCentro
+    2300004: RichmondCercaExt
+    2300006: RichmondCercaInt
+    2300008: RichmondConstr1
+    2300010: RichmondConstr2
+    2300012: RichmondConstr3
+    2300014: RichmondConstr4
+    2300016: RichmondConstr5
+    2300018: RichmondGramadoExterno
+    2300020: RichmondMuretaExt
+    2300022: RichmondMuretaInt
+    2300024: RichmondPista
+    2300026: RichmondPistaInterna
+    2300028: RichmondPistaRiscos
+    2300030: RichmondPosteLuz
+    2300032: RichmondTorre
+    2300034: RichmondTorreTopo
+    2300036: bleachers
+    2300038: buildings
+    2300040: FEnce
+    2300042: Fence
+    2300044: lights
+    2300046: richCenter
+    2300048: RichSkidmarks
+    2300050: RichTrack
+    2300052: RichTrackInterior
+    2300054: tower
+    2300056: wall
+    2300058: Wall2
+    3300000: Plane049
+    3300002: RichmondCentro
+    3300004: RichmondCercaExt
+    3300006: RichmondCercaInt
+    3300008: RichmondConstr1
+    3300010: RichmondConstr2
+    3300012: RichmondConstr3
+    3300014: RichmondConstr4
+    3300016: RichmondConstr5
+    3300018: RichmondGramadoExterno
+    3300020: RichmondMuretaExt
+    3300022: RichmondMuretaInt
+    3300024: RichmondPista
+    3300026: RichmondPistaInterna
+    3300028: RichmondPistaRiscos
+    3300030: RichmondPosteLuz
+    3300032: RichmondTorre
+    3300034: RichmondTorreTopo
+    3300036: bleachers
+    3300038: buildings
+    3300040: FEnce
+    3300042: Fence
+    3300044: lights
+    3300046: richCenter
+    3300048: RichSkidmarks
+    3300050: RichTrack
+    3300052: RichTrackInterior
+    3300054: tower
+    3300056: wall
+    3300058: Wall2
+    4300000: RichmondConstr5
+    4300002: RichmondConstr1
+    4300004: RichmondConstr2
+    4300006: RichmondTorre
+    4300008: RichmondTorreTopo
+    4300010: RichmondPista
+    4300012: RichmondPistaInterna
+    4300014: RichmondCentro
+    4300016: RichmondMuretaInt
+    4300018: RichmondMuretaExt
+    4300020: RichmondCercaExt
+    4300022: RichmondCercaInt
+    4300024: RichmondPosteLuz
+    4300026: RichmondGramadoExterno
+    4300028: RichmondConstr4
+    4300030: RichmondConstr3
+    4300032: RichmondPistaRiscos
+    4300034: Plane049
+    4300036: buildings
+    4300038: tower
+    4300040: RichTrack
+    4300042: RichTrackInterior
+    4300044: richCenter
+    4300046: wall
+    4300048: Wall2
+    4300050: FEnce
+    4300052: Fence
+    4300054: lights
+    4300056: RichSkidmarks
+    4300058: bleachers
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 39.37
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

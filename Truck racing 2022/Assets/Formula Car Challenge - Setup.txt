@@ -1,0 +1,137 @@
+Site URL: 
+market://details?id=com.gtactiongames.formulacarchallenge
+
+Category : Racing
+
+Admob : 
+Interstitial ID: ca-app-pub-1389921346082860/6446607909
+
+Iron Source : 
+App Key: 955a75b5
+
+Unity Ads
+Google Play Store: 3178218
+
+Public Key
+
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApZV2cb79YBU0DLUF9AqqhrM02lv2CZFN+S/2U5tW7mIHSVoaOKgVtrMdwYSH0b/0+I8S8yXzHKE46a8R526kFWmarDoXhBjkrbhaHjfI0RKITpamyMigvydDA9TdSDytEm/LVfuAyscyRKm36drI1GdSf0VdDsYZVQi1IBBtsnfMvfI/Q4uGEuJuuJ6EqpflP80v4dDGVWaTBj2ZaDqv+cPLaHeM6XetmrLrz1FDDCiI4KsgKleNYoUrW+RBEj1JTEebwPXrQbAH3yNTyyuZqq8Y0oHy5iujOCZDW/QmLmst1MaQr/WCurERRRQt4Gwv1EUvN/1tH/wuQywiyqXxXwIDAQAB
+
+Game Services
+
+Formula Car Challenge
+300360465396
+
+1
+
+High Score
+CgkI9PeD994IEAIQAA
+—
+Ready to publish
+
+
+Achievements
+
+1
+
+1
+CgkI9PeD994IEAIQAQ
+5
+—
+Ready to test
+2
+
+2
+CgkI9PeD994IEAIQAg
+5
+—
+Ready to test
+3
+
+3
+CgkI9PeD994IEAIQAw
+5
+—
+Ready to test
+4
+
+4
+CgkI9PeD994IEAIQBA
+5
+—
+Ready to test
+5
+
+5
+CgkI9PeD994IEAIQBQ
+5
+—
+Ready to test
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <!-- app_id -->
+  <string name="app_id" translatable="false">300360465396</string>
+  <!-- achievement 1 -->
+  <string name="achievement_1" translatable="false">CgkI9PeD994IEAIQAQ</string>
+  <!-- achievement 2 -->
+  <string name="achievement_2" translatable="false">CgkI9PeD994IEAIQAg</string>
+  <!-- achievement 3 -->
+  <string name="achievement_3" translatable="false">CgkI9PeD994IEAIQAw</string>
+  <!-- achievement 4 -->
+  <string name="achievement_4" translatable="false">CgkI9PeD994IEAIQBA</string>
+  <!-- achievement 5 -->
+  <string name="achievement_5" translatable="false">CgkI9PeD994IEAIQBQ</string>
+  <!-- leaderboard High Score -->
+  <string name="leaderboard_high_score" translatable="false">CgkI9PeD994IEAIQAA</string>
+</resources>
+
+
+_______________________________________________________
+
+
+10,000 Cash (com.gtactiongames.formulacarchallenge.10kcash)
+INR 1,350.00
+Jun 8, 2019
+Active
+20,000 Cash (com.gtactiongames.formulacarchallenge.20kcash)
+INR 2,500.00
+Jun 8, 2019
+Active
+3000 Cash (com.gtactiongames.formulacarchallenge.3kcash)
+INR 500.00
+Jun 8, 2019
+Active
+50,000 Cash (com.gtactiongames.formulacarchallenge.50kcash)
+INR 5,000.00
+Jun 8, 2019
+Active
+Remove Ads (com.gtactiongames.formulacarchallenge.removeads)
+INR 111.00
+Jun 8, 2019
+Active
+Unlock All Cars (com.gtactiongames.formulacarchallenge.unlockallcars)
+INR 6,900.00
+Jun 8, 2019
+Active
+Unlock All Cars and Levels (com.gtactiongames.formulacarchallenge.unlockallcarsandlevels)
+INR 11,111.00
+Jun 8, 2019
+Active
+Unlock All Levels (com.gtactiongames.formulacarchallenge.unlockalllevels)
+INR 6,900.00
+Jun 8, 2019
+Active
+
+_________________________________________________________
+
+One Signal
+Application Code: 37b93a44-3f17-47e3-bd7c-ec7995b7c0d7
+
+Google Server API : AAAAwK9MD0M:APA91bFmpdpSixCeBgvSeXU85yoPGsUWUtw2zx5fOlVuNbi3TLkXwo22fkn9KGz-NxSCslzltNRIvbx8dMdPIguJkp-Q9fdVYAg0J3G0o3HrwIejLrRIrD4gD5iM_ckQsWdnoxRUV1mc
+
+Google Project Number : 827574718275

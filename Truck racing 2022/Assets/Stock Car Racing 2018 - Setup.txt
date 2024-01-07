@@ -1,0 +1,106 @@
+Site URL: 
+market://details?id=com.freegames.stockcarracing
+
+Admob : 
+Intestitial Ad unit ID: ca-app-pub-1389921346082860/3036053341
+
+
+Public Key
+
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgL0LdBHLDthKyDgIUvIcbTjQ31MT5Ep2kNiOozEnKic1yIuy197CQfaL8jzhLJaFaWDpGGb394TthFL4d+o7TIh7JZPRjPUkJuHrYE+IgWGcJSwedwelUSlo2rJtnddcnAgN0rKpzvl6US/Ee6EWbSp6aJv4Kg4MYbqbum1Vxc8zdTFfAbl/nFlUgFPgWHqjsEimwt06tcJyz5uku8rY7BWcWCbACg9fB5jZ8QdoRVgtz6eO4hiLkLEBcYg4fYzxs9rh4Cujx/CS6YxIraSovlKllVlf07T+WRa3V815GwElLnWdZxg6Vv1titNGWKhzag18Pim+QAqBvMftHmXdaQIDAQAB
+
+Game Services
+
+Stock Car Racing 2018
+536494681847
+
+1
+
+High Score
+CgkI993MzM4PEAIQAA
+—
+Ready to publish
+
+Achievements
+
+1
+
+1
+CgkI993MzM4PEAIQAQ
+5
+—
+Ready to test
+2
+
+2
+CgkI993MzM4PEAIQAg
+5
+—
+Ready to test
+3
+
+3
+CgkI993MzM4PEAIQAw
+5
+—
+Ready to test
+4
+
+4
+CgkI993MzM4PEAIQBA
+5
+—
+Ready to test
+5
+
+5
+CgkI993MzM4PEAIQBQ
+5
+—
+Ready to test
+_______________________________________________________
+
+
+100,000 Cash (com.freegames.stockcarracing.100kcash)
+INR 1,350.00
+Apr 16, 2018
+Active
+200,000 Cash (com.freegames.stockcarracing.200kcash)
+INR 2,500.00
+Apr 16, 2018
+Active
+25,000 Cash (com.freegames.stockcarracing.25kcash)
+INR 410.00
+Apr 16, 2018
+Active
+50,000 Cash (com.freegames.stockcarracing.50kcash)
+INR 690.00
+Apr 16, 2018
+Active
+500,000 Cash (com.freegames.stockcarracing.500kcash)
+INR 5,000.00
+Apr 16, 2018
+Active
+No Ads (com.freegames.stockcarracing.noads)
+INR 130.00
+Apr 16, 2018
+Active
+Unlock All Cars (com.freegames.stockcarracing.unlockallcars)
+INR 6,500.00
+Apr 16, 2018
+Active
+Unlock All Levels (com.freegames.stockcarracing.unlockalllevels)
+INR 6,500.00
+Apr 16, 2018
+Active
+_________________________________________________________
+
+Unity Ads
+Google Play Store: 1770193
+
+One Signal
+Application Code: c843fbf5-a393-4957-80d6-a0511e817d27
+
+Google Server API : AIzaSyDoESK4t5StPyHkCvttMEO7Z-p1pqU9HkM
+
+Google Project Number : 1044316528695

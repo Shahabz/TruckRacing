@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: a7f8b897e54f31c4ab25e163bf3fc896
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackAngularAbsorber
+    100002: BackWheel
+    100004: BackWheelPivot
+    100006: Bike6
+    100008: //RootNode
+    100010: FrontWheel
+    100012: FrontWheelTurn
+    100014: group1
+    100016: group3
+    100018: Shape
+    100020: Steering
+    100022: Wing
+    400000: BackAngularAbsorber
+    400002: BackWheel
+    400004: BackWheelPivot
+    400006: Bike6
+    400008: //RootNode
+    400010: FrontWheel
+    400012: FrontWheelTurn
+    400014: group1
+    400016: group3
+    400018: Shape
+    400020: Steering
+    400022: Wing
+    2300000: BackAngularAbsorber
+    2300002: BackWheel
+    2300004: Bike6
+    2300006: FrontWheel
+    2300008: Shape
+    2300010: Wing
+    3300000: BackAngularAbsorber
+    3300002: BackWheel
+    3300004: Bike6
+    3300006: FrontWheel
+    3300008: Shape
+    3300010: Wing
+    4300000: BackWheel
+    4300002: FrontWheel
+    4300004: Bike6
+    4300006: BackAngularAbsorber
+    4300008: Wing
+    4300010: Shape
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 67db29602ca794e4ea83411681cfeb37, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.099999994
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
